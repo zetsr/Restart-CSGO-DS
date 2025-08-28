@@ -16,7 +16,7 @@ STARTUP_ARGS=(
     "-port 27015"
     "+tv_port 50001"
     "+tv_port1 60001"
-    "+sv_setsteamaccount"
+    "+sv_setsteamaccount YOUR_KEY"
     "+sv_tags HvH"
     "+map de_mirage"
     "+game_alias wingman"
